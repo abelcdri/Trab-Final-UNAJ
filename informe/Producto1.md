@@ -86,11 +86,11 @@ En lenguaje sencillo: **el modelo identifica correctamente a 88 de cada 100 trab
 
 ![Matriz de confusión en el test](figuras/fig7_matriz_confusion.png)
 
-## 7. Conclusiones y próximos pasos
+## 7. Conclusiones 
 
 - Un modelo simple ya separa bien el empleo informal del formal usando solo rasgos de la persona y de su ocupación, sin las variables que definen la informalidad.
 - Que la logística empate con los ensambles sugiere que la relación entre las variables y la informalidad es bastante directa.
-- **Para el Producto 2:** optimizar el boosting para intentar superar a la logística, buscar perfiles de trabajadores con aprendizaje no supervisado, comparar con una red neuronal y revisar si el modelo trata igual a hombres y mujeres, a distintas zonas y a distintas edades.
+- Para el siguiente producto se va optimizar el boosting para intentar superar a la logística, buscar perfiles de trabajadores con aprendizaje no supervisado, comparar con una red neuronal y revisar si el modelo trata igual a hombres y mujeres, a distintas zonas y a distintas edades.
 
 ---
 
