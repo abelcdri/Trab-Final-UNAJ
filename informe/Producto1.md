@@ -1,8 +1,8 @@
 # Empleo informal en Puno: ¿quién tiene un empleo informal?
 ## Producto 1 · Informe técnico de modelado supervisado
 
-**Equipo:** [Integrante 1] · [Integrante 2] · [Integrante 3]
-**Repositorio:** [enlace de GitHub]
+**Equipo:** Abel Condori Carcasi
+**Repositorio:** https://github.com/abelcdri/Trab-Final-UNAJ
 
 ---
 
@@ -100,4 +100,3 @@ En lenguaje sencillo: **el modelo identifica correctamente a 88 de cada 100 trab
 - Instituto Nacional de Estadística e Informática. (2026). *Encuesta Permanente de Empleo Nacional: diccionario de datos (agosto 2026)*. INEI.
 - Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825-2830.
 
-**Uso de IA generativa:** [declarar aquí]
