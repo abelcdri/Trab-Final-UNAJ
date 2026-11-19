@@ -20,7 +20,7 @@ Es un problema de **clasificación binaria** (informal / formal).
 **Tamaño:** 18 264 registros de personas. Nos quedamos con las **personas ocupadas** que tienen el indicador de informalidad del INEI (`Informal_P`): **7 836 observaciones de 5 479 personas distintas**, en 3 532 hogares.
 **Variable objetivo:** `informal` (1 = empleo informal), presente en el **77,8 %** de los casos (6 100 informales y 1 736 formales).
 
-> Nota: `Informal_P` no figura en el diccionario. Interpretamos 1 = informal y 2 = formal porque **todos** los trabajadores cuya empresa no está registrada en SUNAT tienen el código 1.
+> Nota: `Informal_P` no figura en el diccionario. Por lo cual se hace una Interpretacion 1 = informal y 2 = formal porque **todos** los trabajadores cuya empresa no está registrada en SUNAT tienen el código 1.
 
 Usamos **13 variables**: edad, horas trabajadas, ingreso mensual de la ocupación principal, número de limitaciones, años de estudio, sexo, zona (urbana o rural), nivel educativo, lengua materna, autoidentificación étnica, ocupación (gran grupo CIUO), rama de actividad (CIIU agrupada) y si quería trabajar más horas.
 
