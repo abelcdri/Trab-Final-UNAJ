@@ -1,8 +1,8 @@
 # Empleo informal en Puno con aprendizaje automático
 ## Producto 2 · Proyecto integrador final
 
-**Autores:** [Integrante 1] · [Integrante 2] · [Integrante 3]
-**Repositorio:** [enlace de GitHub] · **Demo:** [enlace]
+**Autores:** Abel Condori Carcasi
+**Repositorio:** https://github.com/abelcdri/Trab-Final-UNAJ 
 
 ---
 
@@ -141,5 +141,3 @@ Un modelo de boosting optimizado distingue el empleo informal del formal en Puno
 - Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. *Journal of Machine Learning Research, 12*, 2825-2830.
 
 ---
-
-**Uso de IA generativa:** [declarar aquí]
