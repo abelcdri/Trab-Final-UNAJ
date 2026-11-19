@@ -67,19 +67,8 @@ Excluimos las variables con las que el INEI define la informalidad (registro SUN
 ├── informe/                           ← Producto1.md, Producto2.md y figuras/
 ```
 
-## 5. Cómo reproducirlo
-
-1. Clonen el repositorio o súbanlo a Colab. Los notebooks leen `data/21_Puno_EPEN_Anual_2025.csv`.
-2. Ejecuten los notebooks **en orden** (01 → 05). El 03 tarda unos 4 a 5 minutos.
-3. Demo local: `pip install -r app/requirements.txt` y `streamlit run app/app.py`.
-
-**Diferencias con la guía:** se usa `HistGradientBoostingClassifier` (scikit-learn) en lugar de LightGBM. El notebook 03 emplea Optuna si está instalado y, si no, búsqueda aleatoria; **los resultados de los informes son con búsqueda aleatoria (30 intentos)**.
-
 ## 6. Limitaciones y uso responsable
 
-- Los datos son de **un solo departamento y un solo año**; no se puede generalizar a otras regiones.
-- No se usaron los pesos muestrales: los porcentajes describen la **muestra**, no la población.
+- Los datos son de **un solo departamento y un solo año**; solo se esta viendo el departamento de Puno.
 - El ingreso puede ser en parte *consecuencia* de la informalidad; sin él, el modelo baja a 0,864 de exactitud balanceada.
 - El modelo solo debe usarse para **priorizar programas de apoyo y formalización**, nunca para negar beneficios ni sancionar a trabajadores o empresas.
-
-**Uso de IA generativa:** [declarar aquí]
