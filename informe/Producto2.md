@@ -16,9 +16,7 @@ La informalidad laboral deja a los trabajadores sin seguro de salud, pensión ni
 
 El empleo informal limita el acceso a la protección social y suele asociarse a menores ingresos. En Puno, la muestra de la EPEN 2025 indica que cerca de 8 de cada 10 personas ocupadas tienen un empleo informal. Estimar quién lo tiene permite **focalizar programas de formalización y apoyo** y entender qué rasgos se asocian con la informalidad.
 
-Este trabajo amplía el Producto 1 con optimización de hiperparámetros, una comparación estadística fold a fold, análisis no supervisado, una red neuronal, interpretación del modelo, revisión de sesgo y una demo funcional.
-
-*Trabajos relacionados:* [completar con 2 o 3 estudios sobre informalidad laboral y aprendizaje automático, citados en APA 7].
+Este trabajo amplía el Producto 1 con optimización de hiperparámetros, una comparación estadística fold a fold, análisis no supervisado, una red neuronal, interpretación del modelo y revisión de sesgo.
 
 ## 2. Datos
 
