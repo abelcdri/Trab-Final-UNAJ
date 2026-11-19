@@ -5,8 +5,6 @@
 - `21_Puno_EPEN_Anual_2025.csv`: 18 264 filas (personas) × 131 columnas.
 - `Diccionario_EPEN.pdf`: diccionario de datos del INEI (agosto 2026).
 
-**Cómo se obtienen:** la base se descarga de la plataforma de microdatos del INEI. Los notebooks la leen de `data/`; si se ejecutan en Colab, súbanla al panel **Archivos** o reemplacen `[USUARIO]/[REPOSITORIO]` en la constante `RUTA` por su repositorio.
-
 ## Población de estudio
 Personas **ocupadas** (`OCUP300 = 1`) con el indicador `Informal_P` del INEI: **7 836 observaciones de 5 479 personas** (2 357 aparecen dos veces porque la EPEN es un panel).
 
