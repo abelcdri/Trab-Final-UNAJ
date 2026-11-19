@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn==1.9.1
+scipy
+joblib
+# opcionales
+# optuna        # búsqueda bayesiana en el notebook 03 (si no está, usa búsqueda aleatoria)
+# streamlit     # demo en app/
